@@ -1,0 +1,20 @@
+*{
+    margin :0;
+}
+.conatiner{
+    display: flex;
+    background-color:red;
+    padding:2%;
+    justify-content: space-around;4
+    h1{
+         margin-top:3% ;
+         text-align : center;
+    }
+    img{
+        width: 25%;
+    }
+    .movies-conatiner{
+        display: flex;
+        justify-content: space-around;
+    }
+
